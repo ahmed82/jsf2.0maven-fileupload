@@ -1,4 +1,4 @@
-package com.jwt.jsf;
+package com.jsf;
  
 import javax.faces.bean.ManagedBean;
 import javax.faces.bean.SessionScoped;
